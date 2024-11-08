@@ -1,0 +1,8 @@
+@media (max-width: 768px) {
+    .arriendo-lista{
+        flex-wrap: wrap;
+    }
+    .venta-lista{
+        flex-wrap: wrap;
+    }
+}
